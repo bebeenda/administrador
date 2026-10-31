@@ -59,7 +59,7 @@ export default function LoginScreen() {
                         behavior={
                                 Platform.OS === "ios" ? "padding" : "height"
                         }>
-                        <Text style={styles.titulo}>UberHub Mentoria</Text>
+                        <Text style={styles.titulo}>UberHub Administrador</Text>
 
                         <TextInput
                                 style={styles.input}
